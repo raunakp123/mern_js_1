@@ -10,3 +10,5 @@ const A ={
 const{name,roll,design}= A
 
 console.log(name);
+console.log(roll);
+

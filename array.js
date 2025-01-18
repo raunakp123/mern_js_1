@@ -1,5 +1,6 @@
 const A= [ 12,13,14];
 const B= [15,16,17];
+//spraid operotor
 const D= [...A,...B];
 const C= A.concat(B);
 console.log(C);
